@@ -107,7 +107,7 @@ author:
   # location         : "Somewhere"
   # email            : "lnhyen43@gmail.com"
   links:
-    - label: "notion"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:lnhyen43@gmail.com
     - label: "github"
