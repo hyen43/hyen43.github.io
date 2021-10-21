@@ -1,4 +1,5 @@
-### Hi there 👋
+### 이나현의 알고리즘 풀이 블로그👋]
+#### 🌱수학적 사고를 기르는 중입니다!
 
 <!--
 **hyen43/hyen43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
